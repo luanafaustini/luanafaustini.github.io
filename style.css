@@ -42,6 +42,6 @@ transition: ease-in-out 0.2s;
 h1 {
 text-align: center;
 color: #400080;
-text-shadow: -o.06em 0 0.5px rgba(128, 0, 64, 1);
+text-shadow: -0.06em 0 0.5px rgba(128, 0, 64, 1);
 }
 
