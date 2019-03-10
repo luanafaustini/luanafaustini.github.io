@@ -1,6 +1,5 @@
 body {
   background-color: #41274A;
-  background-img: url(luanafaustini.github.io/background.jpg);
   color: #15B277;
   font-family: "Lato";
 }
@@ -33,6 +32,7 @@ a:hover {
 }
 
 .port_img {
+  padding: 1.5rem;
   margin-left: auto;
   margin-right: auto;
   height: 166.2px;
@@ -54,9 +54,4 @@ h1 {
   text-align: center;
   color: #15B277;
   text-shadow: -0.06em 0 0.5px rgb(232, 57, 22);
-}
-
-h2 {
-   text-align: right;
-   color: #ffffff;
 }
