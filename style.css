@@ -1,7 +1,7 @@
 body {
-  background-color: #41274A;
-  color: #15B277;
-  font-family: "Lato";
+  background-color: #67e7ad;
+  color: #41274A;
+  font-family: Lato;
 }
 
 a:visited, a:link, a:active {
@@ -9,7 +9,6 @@ a:visited, a:link, a:active {
   text-decoration: none;
   transition: ease-in-out 0.2s;
   text-shadow: 0.06em 0 0px;
-  
 }
 
 a:hover {
@@ -52,6 +51,6 @@ a:hover {
 
 h1 {
   text-align: center;
-  color: #15B277;
+  color: #41274A;
   text-shadow: -0.06em 0 0.5px rgb(232, 57, 22);
 }
