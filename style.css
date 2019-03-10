@@ -34,7 +34,7 @@ a:hover {
 }
 
 . area .content {
-  margin-left: 3em;
+  margin-left: 2em;
   display: relative;
   align-items: center;
   max-width: 90%;
@@ -44,9 +44,8 @@ a:hover {
   padding: 1.5rem;
   margin-left: auto;
   margin-right: auto;
-  height: 166.2px;
+  height: 169px;
   width: 300px;    
-  text-align: center;
 }
 
 .port_img img {
