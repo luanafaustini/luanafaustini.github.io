@@ -16,16 +16,25 @@ a:hover {
   text-shadow: -0.06em 0 0px;
 }
 
+.head {
+  margin-bottom: -2em;
+}
+
 .topbar {
   text-align: center;
   padding: 0;
   margin: 0;
 }
 
-.content {
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
+.area {
+  display: relative;
+  min-height: 20ex;
+  margin-bottom: 3em;
+}
+
+. area .content {
+  margin-left: 3em;
+  display: relative;
   align-items: center;
   max-width: 90%;
 }
