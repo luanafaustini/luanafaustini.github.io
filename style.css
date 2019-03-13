@@ -38,10 +38,6 @@ a:hover {
 }
 
 .area .content {
-  margin-left: 1.5em;
-}
-
-.area .content {
   display: inline-block;
   width: 200px;
   text-align: center;
