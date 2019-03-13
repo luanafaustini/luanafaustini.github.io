@@ -1,7 +1,10 @@
 body {
-  background-color: #67e7ad;
-  color: #41274A;
-  font-family: Lato;
+  background-color: #111109;
+  color: #67e7ad;
+  text-align: center;
+	margin-top: 250px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 a:visited, a:link, a:active {
@@ -12,13 +15,8 @@ a:visited, a:link, a:active {
 }
 
 a:hover {
-  color: #00FF7F;
+  color: #67e7ad;
   text-shadow: -0.06em 0 0px;
-}
-
-.head {
- margin-top: 2em;
- margin-bottom: -2em;
 }
 
 .topbar {
