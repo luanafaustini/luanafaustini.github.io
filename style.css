@@ -39,7 +39,6 @@ a:hover {
 
 .area .content {
   display: inline-block;
-  width: 200px;
   text-align: center;
   margin-bottom: 1em;
   margin-top: -9px;
@@ -63,7 +62,6 @@ a:hover {
 }
 
 .port_img img {
-  width: 100%;
   transition: ease-in-out 0.2s;
 }
 
