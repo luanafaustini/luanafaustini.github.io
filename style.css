@@ -37,6 +37,14 @@ a:hover {
   margin-bottom: 3em;
 }
 
+.container {
+  display: inline-block;
+  margin: 10px auto;
+  height: 300px;
+  width: 300px;
+}
+
+
 .area .content {
   display: inline-block;
   text-align: center;
