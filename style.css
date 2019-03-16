@@ -60,6 +60,12 @@ a:hover {
   transform: translateY(-8pt);
 }
 
+.footer {
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h1 {
   text-align: center;
   color: #41274A;
