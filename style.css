@@ -43,6 +43,12 @@ a:hover {
   width: 300px;
 }
 
+.container_fontawesome {
+  display: inline-block;
+  margin: 5px auto;
+  height: 200px;
+  width: 200px;
+}
 
 .port_img {
   position: relative;
