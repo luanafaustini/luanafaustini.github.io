@@ -60,6 +60,11 @@ a:hover {
   transform: translateY(-8pt);
 }
 
+.fontawesome {
+  width: 100px;
+  height: 100px;
+}
+
 .footer {
   margin-bottom: 0px;
   margin-left: auto;
