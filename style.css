@@ -20,7 +20,6 @@ a:hover {
 }
 
 .topbar {
-  display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
