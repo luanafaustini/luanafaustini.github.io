@@ -3,8 +3,8 @@ body {
   color: #049e90;
   text-align: center;
 	margin-top: 150px;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 a:visited, a:link, a:active {
@@ -90,10 +90,6 @@ h1 {
 }
 
 @media screen and (max-width:360px){
-	.body{
-	margin-left: 40px;
-	margin-right: 40px;
-	}
 	
 	.area {
   	 width: 100%;
