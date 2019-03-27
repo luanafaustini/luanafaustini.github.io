@@ -90,8 +90,8 @@ h1 {
 
 @media screen and (max-width:959px){
 	.body{
-	 margin-left: 0px;
-	 margin-right: 0px;
+	 margin-left: -100px;
+	 margin-right: -100px;
 	}
 	
 	.area {
