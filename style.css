@@ -77,8 +77,8 @@ a:hover {
 .footer {
   width: 960px;
   margin-bottom: 0px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 h1 {
@@ -89,7 +89,8 @@ h1 {
 
 @media screen and (max-width:959px){
 	.body{
-	 margin: 0 auto;
+	 margin-left: 0px;
+	 margin-right: 0px;
 	}
 	
 	.area {
