@@ -74,10 +74,10 @@ a:hover {
 }
 
 .footer {
+  background-color: #111109;
+  color: #049e90;
+  text-align: center;
   width: 960px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
 }
 
 h1 {
