@@ -88,6 +88,10 @@ h1 {
 }
 
 @media screen and (max-width:959px){
+	.body{
+	 margin: 0 auto;
+	}
+	
 	.area {
   	 width: 100%;
 	}
