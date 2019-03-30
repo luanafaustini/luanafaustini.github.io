@@ -80,13 +80,13 @@ a:hover {
 .fontawesome {
   border: 1px solid transparent;
   width: 200px;
-  height: 200px;
+  height: 100px;
 }
 
 h1 {
   text-align: center;
-  color: #41274A;
-  text-shadow: -0.06em 0 0.5px rgb(232, 57, 22);
+  color: #E83916;
+  text-shadow: -0.06em 0 0.5px rgb(4, 95, 158);
 }
 
 @media screen and (max-width:360px){
