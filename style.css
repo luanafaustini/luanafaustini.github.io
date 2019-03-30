@@ -23,8 +23,6 @@ a:hover {
   align-items: center;
   justify-content: center;
   height: 100%;
-  padding: 0;
-  margin: 0;
 }
 
 .demo {
@@ -54,6 +52,15 @@ a:hover {
   width: 200px;
 }
 
+.container_fullscreen {
+  width: 960px;
+  margin: 0px auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
 .port_img {
   position: relative;
   overflow: hidden;
@@ -66,7 +73,7 @@ a:hover {
 }
 
 .port_img img:hover {
-  filter: hue-rotate(90deg);
+  filter: hue-rotate(180deg);
   transform: translateY(-8pt);
 }
 
@@ -74,15 +81,6 @@ a:hover {
   border: 1px solid transparent;
   width: 200px;
   height: 200px;
-}
-
-.footer {
-  background-color: #111109;
-  color: #049e90;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
 }
 
 h1 {
@@ -108,9 +106,8 @@ h1 {
        	 margin: auto;
 	}
 	
-	.footer img {
-	 width: 100%;
+	.container_fullscreen {
+	width: 100%
 	}
-	
 
 }
