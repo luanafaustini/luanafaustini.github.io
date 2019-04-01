@@ -96,6 +96,8 @@ h2 {
 
 h5 {
   text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 @media screen and (max-width:640px){
