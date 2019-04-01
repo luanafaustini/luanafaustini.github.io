@@ -94,6 +94,12 @@ h2 {
   color: #931a1d;
 }
 
+h5 {
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
+
 @media screen and (max-width:640px){
 	
 	.area {
