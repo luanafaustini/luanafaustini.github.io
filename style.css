@@ -62,6 +62,10 @@ a:hover {
   height: 100%;
 }
 
+.text_box {
+  width: 842px;
+}
+
 .port_img {
   position: relative;
   overflow: hidden;
