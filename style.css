@@ -64,7 +64,8 @@ a:hover {
 
 .text_box {
   width: 842px;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .port_img {
