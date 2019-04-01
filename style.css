@@ -89,6 +89,11 @@ h1 {
   color: #931a1d;
 }
 
+h2 {
+  text-align: center;
+  color: #931a1d;
+}
+
 @media screen and (max-width:640px){
 	
 	.area {
