@@ -112,12 +112,12 @@ h5 {
 div{
 width: 610px;
 	}
-div.topbar {
+.topbar {
 	margin-top: 100px;
 	margin-left: 0px;
 	margin-right: 0px;
 	}
-div.area {
+.area {
 	margin-left: 0px;
 	margin-right: 0px;
 	}
@@ -126,12 +126,12 @@ div.area {
 div {
 width: 300px;
 	}
-div.topbar {
+.topbar {
 	margin-top: 100px;
 	margin-left: 0px;
 	margin-right: 0px;
 	}
-div.area {
+.area {
 	margin-left: 0px;
 	margin-right: 0px;
 	}
