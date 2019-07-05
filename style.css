@@ -60,6 +60,10 @@ a:hover {
   border: 1px solid transparent;
 }
 
+.port_full {
+  width: 842px;
+}
+
 .container_fontawesome {
   display: inline-block;
   margin: 10px auto;
@@ -108,9 +112,27 @@ h5 {
 div{
 width: 610px;
 	}
+div.topbar {
+	margin-top: 100px;
+	margin-left: 0px;
+	margin-right: 0px;
+	}
+div.area {
+	margin-left: 0px;
+	margin-right: 0px;
+	}
 }
 @media all and ( max-width: 610px ) {
 div {
 width: 300px;
+	}
+div.topbar {
+	margin-top: 100px;
+	margin-left: 0px;
+	margin-right: 0px;
+	}
+div.area {
+	margin-left: 0px;
+	margin-right: 0px;
 	}
 }
