@@ -26,12 +26,6 @@ a:hover {
   justify-content: center;
 }
 
-.demo {
-  width: 300px;
-  height: 300px;
-  border: 1px solid transparent;
-}
-
 .area {
    align-items: center;
    justify-content: center;
@@ -42,8 +36,28 @@ a:hover {
 .container {
   display: inline-block;
   margin: 10px auto;
-  height: 300px;
+}
+
+.port_img {
+  position: relative;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.port_img img {
+  transition: ease-in-out 0.2s;
+}
+
+.port_img img:hover {
+  filter: hue-rotate(180deg);
+  transform: translateY(-8pt);
+}
+
+.demo {
   width: 300px;
+  height: 300px;
+  border: 1px solid transparent;
 }
 
 .container_fontawesome {
@@ -69,22 +83,6 @@ a:hover {
   margin-right: 100px;
 }
 
-.port_img {
-  position: relative;
-  overflow: hidden;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.port_img img {
-  transition: ease-in-out 0.2s;
-}
-
-.port_img img:hover {
-  filter: hue-rotate(180deg);
-  transform: translateY(-8pt);
-}
-
 .fontawesome {
   border: 1px solid transparent;
   width: 200px;
@@ -105,7 +103,6 @@ h5 {
   text-align: center;
   color: #a59b9b;
 }
-
 
 @media all and ( max-width: 920px ) {
 div{
