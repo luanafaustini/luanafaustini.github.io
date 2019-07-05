@@ -121,6 +121,9 @@ width: 610px;
 	margin-left: 0px;
 	margin-right: 0px;
 	}
+.port_full {
+width: 610px;
+}
 }
 @media all and ( max-width: 610px ) {
 div {
@@ -135,4 +138,7 @@ width: 300px;
 	margin-left: 0px;
 	margin-right: 0px;
 	}
+.port_full {
+width: 300px;
+}
 }
