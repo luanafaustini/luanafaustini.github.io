@@ -243,7 +243,7 @@ ul::after {
     body {
         margin: 30px auto;
         width: 80%;
-  }
+    }
     
     #about {
         width: 100%;
@@ -253,7 +253,7 @@ ul::after {
         justify-content: center;
         align-items: center;
         margin-top: -60px;
-}
+    }
     
     .grid {
         display: flex;
@@ -262,18 +262,6 @@ ul::after {
         flex-wrap: wrap;
         margin: auto;
     }
-    
-    .column_1 {
-        width: 70%;
-        margin-top: 0;
-        margin-left: 45px; 
-}
-    
-    .column_2 {
-        width: 30%;
-        float: right;
-        margin-left: auto;
-}
     
     .m-top-45 {
         margin-top: 45px;
@@ -290,18 +278,12 @@ ul::after {
     .single-line-icons {
         display: inline-block;
         margin: 0 0 0 2.25rem;
-}
+    }
     
     .icon {
         margin-left: 18px;
         margin-right: 0;
     }
-    
-    .row {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-}
     
     .frame {
         margin: auto;
@@ -327,4 +309,24 @@ ul::after {
         padding-right: 0px;
     }
   
+}
+
+@media only screen and (min-width: 1120px) {
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .column_1 {
+        width: 70%;
+        margin-top: 0;
+        margin-left: 45px; 
+    }
+    
+    .column_2 {
+        width: 30%;
+        float: right;
+        margin-left: auto;
+    }
 }
