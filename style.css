@@ -314,6 +314,8 @@ ul::after {
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
+        margin-left: 60px;
+        margin-right: 60px;
     }
 
     .column_1 {
