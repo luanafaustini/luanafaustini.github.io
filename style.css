@@ -69,7 +69,15 @@ ul::after {
     padding-bottom: 60px;
 }
 
+#work {
+    margin-top: 60px;
+}
+
 #about {
+    margin-top: 60px;
+}
+
+#contact {
     margin-top: 60px;
 }
 
