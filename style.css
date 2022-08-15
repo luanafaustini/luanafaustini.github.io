@@ -170,6 +170,10 @@ h2 {
     display: none;
 }
 
+.message {
+    margin-bottom: 15px;
+}
+
 /* IMAGE */
 img {
     width: 100%;
@@ -188,6 +192,7 @@ img {
 }
 
 /* WORK SECTION*/
+
 .work_section {
     margin: 0 0 4em;
 }
