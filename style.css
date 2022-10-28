@@ -517,6 +517,8 @@ section.comp-full-width-image img {
     padding-left: 40px;
     padding-right: 40px;
     margin-bottom: 80px;
+    z-index: 10;
+    position: relative;
 }
 
 .comp-image-row img {
