@@ -695,6 +695,10 @@ section.comp-image-row img {
         margin-bottom: 64px;
     }
 
+    .full-width {
+        margin: auto;
+    }
+
     .full-width-content-box {
         width: 100%;
         margin: 40px auto;
@@ -789,6 +793,10 @@ section.comp-image-row img {
 
     .about-image {
         max-width: 100%;
+    }
+
+    .full-width-content-box {
+        padding: 80px 20px;
     }
 
 }
