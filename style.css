@@ -200,10 +200,10 @@ p {
 }
 
 .noise::after {
-    top: -10rem;
-    left: -10rem;
-    width: calc(100% + 20rem);
-    height: calc(100% + 20rem);
+    top: -30rem;
+    left: -30rem;
+    width: calc(100% + 60rem);
+    height: calc(100% + 60rem);
     content: "";
     position: absolute;
     animation-name: animation;
