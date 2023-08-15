@@ -148,7 +148,7 @@ p {
     font-family: Montserrat;
     font-size: 14px;
     line-height: 20px;
-    font-weight: 500;
+    font-weight: 600;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -238,7 +238,7 @@ p {
 }
 
 .section-presentation {
-    margin: 240px 200px 200px 188px;
+    margin: 240px 200px 200px 40px;
 }
 
 .section-presentation h1 {
