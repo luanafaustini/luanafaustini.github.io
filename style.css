@@ -327,6 +327,8 @@ p {
     align-items: center;
     padding-top: 16px;
     padding-bottom: 16px;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 
 .project-wide-content {
@@ -635,6 +637,8 @@ section.comp-image-row img {
         align-items: flex-start;
         padding-top: 32px;
         padding-bottom: 32px;
+        margin-right: 0px;
+        margin-left: 0px;
     }
 
     .project-content-small {
